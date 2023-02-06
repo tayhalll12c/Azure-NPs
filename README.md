@@ -52,6 +52,12 @@ Secure shell is being utilized to 'log in' to VM2's private IP address (Provides
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-DNS is displayed in Wireshark, and Powershell is being utilized to retrieve the IP address of a public website.
+DNS is displayed in Wireshark, and PowerShell is being utilized to retrieve the IP address of a public website.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next text
