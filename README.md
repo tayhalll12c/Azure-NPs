@@ -37,6 +37,18 @@ Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP com
 <br />
 
 <p>
+<img src="https://i.imgur.com/88FYPhq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+"/>
+</p>
+<p>
+<img src="https://i.imgur.com/VW3720l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+A new security rule has been created in order to stop the nonstop ping. The second image shows that the rule has been successfully applied. 
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/gesDY5w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
