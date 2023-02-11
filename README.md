@@ -32,7 +32,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/2RXOkFp"/>
+<img src="![image](https://user-images.githubusercontent.com/124304866/218280491-282ed1ef-955f-43f1-b51b-90b34a1e516b.png)
+"/>
 </p>
 <p>
 Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP communication. Contact with VM2's private IP address is successful. (10.0.0.5 is the private IP of VM2)
