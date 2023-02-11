@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP communication. Contact with VM2's private IP address is successful. 
+Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP communication. Contact with VM2's private IP address is successful. (10.0.0.5 is the private IP of VM2)
 </p>
 <br />
 
