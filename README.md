@@ -49,11 +49,11 @@ A new security rule has been created in order to stop the nonstop ping. The seco
 <br />
 
 <p>
-<img src="https://i.imgur.com/eHIwJRU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eHIwJRU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 "/>
 </p>
 <p>
-<img src="https://i.imgur.com/gQvDx5j.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gQvDx5j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The security rule is being edited in order to allow nonstop traffic to resume. In this case, the action is being switched from 'Deny' to 'Allow' and then saved. The second image shows the completion of the edit, with resumed traffic and VM2's private IP re-appearing in Wireshark.  
