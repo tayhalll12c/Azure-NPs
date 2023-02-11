@@ -28,12 +28,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 1: Deploy Windows 10 and Ubuntu Virtual Machines
 - Step 2: Run Windows 10 Virtual Machine and install Wireshark from the net
 - Step 3: Connect with Ubuntu VM via PowerShell or command prompt, while observing various network protocols in Wireshark
-- Step 4:
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2RXOkFp"/>
 </p>
 <p>
 Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP communication. Contact with VM2's private IP address is successful. (10.0.0.5 is the private IP of VM2)
