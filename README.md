@@ -41,7 +41,7 @@ Traffic is being observed via a nonstop ping, with Wireshark displaying ICMP com
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gesDY5w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Secure shell is being utilized to 'log in' to VM2's private IP address (Provides security over otherwise unsecure network). 
