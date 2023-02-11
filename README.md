@@ -60,4 +60,10 @@ DNS is displayed in Wireshark, and PowerShell is being utilized to retrieve the 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next text
+DHCP is being utilized to issue a new IP address to the Windows 10 VM (VM1), which is displayed in Wireshark. 
+
+  <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+RDP is being utilized via port number 3389 to connect to  VM2. Non-stop traffic is displayed in Wireshark as a sign of remote access to the Ubunt VM (VM2).
