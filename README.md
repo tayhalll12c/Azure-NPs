@@ -49,7 +49,7 @@ Secure shell is being utilized to 'log in' to VM2's private IP address (Provides
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UE9TE5R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DNS is displayed in Wireshark, and PowerShell is being utilized to retrieve the IP address of a public website.
@@ -57,13 +57,13 @@ DNS is displayed in Wireshark, and PowerShell is being utilized to retrieve the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tp2A2Ob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 DHCP is being utilized to issue a new IP address to the Windows 10 VM (VM1), which is displayed in Wireshark. 
 
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sxS8sjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 RDP is being utilized via port number 3389 to connect to  VM2. Non-stop traffic is displayed in Wireshark as a sign of remote access to the Ubunt VM (VM2).
