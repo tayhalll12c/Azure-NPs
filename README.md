@@ -50,7 +50,6 @@ A new security rule has been created in order to stop the nonstop ping. The seco
 
 <p>
 <img src="https://i.imgur.com/eHIwJRU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-"/>
 </p>
 <p>
 <img src="https://i.imgur.com/gQvDx5j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
